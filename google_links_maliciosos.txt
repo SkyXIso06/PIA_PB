@@ -1,0 +1,443 @@
+[
+    {
+        "type": "URL",
+        "indicator": "http://bigjoesbiker-ringe.com/tact/googledocss/sss/",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 412713
+    },
+    {
+        "type": "URL",
+        "indicator": "http://bluga.com.ar/fran/googledocs/login.php?l=",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 8772101
+    },
+    {
+        "type": "URL",
+        "indicator": "http://bluga.com.ar/fran/googledocs/login.php",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 6767628
+    },
+    {
+        "type": "URL",
+        "indicator": "http://sistech.edu.pk/ca/googledocs%2004.21.12/index.htm",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 6945945
+    },
+    {
+        "type": "URL",
+        "indicator": "http://sistech.edu.pk/ca/googledocs%2004.21.12/",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 3233452
+    },
+    {
+        "type": "URL",
+        "indicator": "http://www.sistech.edu.pk/ca/googledocs%2004.21.12/index.htm",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 6771726
+    },
+    {
+        "type": "URL",
+        "indicator": "http://scuolapapagiovanni.org/googledocs/",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 8672982
+    },
+    {
+        "type": "URL",
+        "indicator": "http://www.sistech.edu.pk/ca/googledocs%2004.21.12/",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 6771725
+    },
+    {
+        "type": "URL",
+        "indicator": "http://www.scuolapapagiovanni.org/googledocs/",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 6768968
+    },
+    {
+        "type": "URL",
+        "indicator": "http://bluga.com.ar/fran/googledocs/index.php",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 6767627
+    },
+    {
+        "type": "URL",
+        "indicator": "http://bankruptcy-atlanta.com/googledocss/googledocss/sss/index.htm",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 4815228
+    },
+    {
+        "type": "URL",
+        "indicator": "http://bankruptcy-atlanta.com/googledocss/googledocss/sss/",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 4815227
+    },
+    {
+        "type": "URL",
+        "indicator": "http://www.bigjoesbiker-ringe.com/tact/googledocss/sss/index.htm",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 3233542
+    },
+    {
+        "type": "URL",
+        "indicator": "http://www.azotatdeamoniu.ro/googledocss/s/indexpage.htm",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 3233525
+    },
+    {
+        "type": "URL",
+        "indicator": "http://www.bonjourdrycleaners.co.uk/olololioghfkhgdfgkdhgkfkl/googledocss/sss/index.htm",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 3233524
+    },
+    {
+        "type": "URL",
+        "indicator": "http://www.andreavillarreal.com/plugins/editors/jce/googledocs/googledocs/index.htm",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 3233519
+    },
+    {
+        "type": "URL",
+        "indicator": "http://www.andreavillarreal.com/plugins/editors/jce/googledocs/googledocs/",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 3233518
+    },
+    {
+        "type": "URL",
+        "indicator": "http://www.bigjoesbiker-ringe.com/tact/googledocss/sss/",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 3233517
+    },
+    {
+        "type": "URL",
+        "indicator": "http://www.gatadvtech.com/gata8/googledocss/sss/",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 3233515
+    },
+    {
+        "type": "URL",
+        "indicator": "http://mymilitarytravel.com/images/banners/googledocs/index.htm",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 3233512
+    },
+    {
+        "type": "URL",
+        "indicator": "http://mymilitarytravel.com/images/banners/googledocs/",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 3233511
+    },
+    {
+        "type": "URL",
+        "indicator": "http://www.mymilitarytravel.com/images/banners/googledocs/",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 3233510
+    },
+    {
+        "type": "URL",
+        "indicator": "http://www.cateringkatalogu.com/bahar/googledocss/sss/",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 3233504
+    },
+    {
+        "type": "URL",
+        "indicator": "http://andreavillarreal.com/plugins/editors/jce/googledocs/googledocs/",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 3233500
+    },
+    {
+        "type": "URL",
+        "indicator": "http://173-254-86-44.unifiedlayer.com/~medscape/images/images/googledocss/sss/",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 3233494
+    },
+    {
+        "type": "URL",
+        "indicator": "http://windowsdiscussions.com/packages/vbattach/googledocss/sss/index.htm",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 3233442
+    },
+    {
+        "type": "URL",
+        "indicator": "http://cateringkatalogu.com/bahar/googledocss/sss/",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 770916
+    },
+    {
+        "type": "URL",
+        "indicator": "http://azotatdeamoniu.ro/googledocss/s/indexpage.htm",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 170956
+    },
+    {
+        "type": "URL",
+        "indicator": "http://173.254.86.44/~medscape/images/images/googledocss/sss/",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 3233495
+    },
+    {
+        "type": "URL",
+        "indicator": "http://173.254.86.44/~medscape/images/images/googledocss/sss/index.htm",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 3233472
+    },
+    {
+        "type": "URL",
+        "indicator": "http://positivebarperu.com/www.googledrive102.com/googledocs/ii.php?rand=13InboxLightaspxn.1774256418&fid.4.1252899642&fid=1&fav.1&rand.13InboxLight.aspxn.1774256418&fid.1252899642&fid.1&fav.1&email=&.rand=13InboxLight.aspx?n=1774256418&fid=4",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 2119181468
+    },
+    {
+        "type": "URL",
+        "indicator": "http://positivebarperu.com/www.googledrive102.com/googledocs/ii.php?rand=13InboxLightaspxn.1774256418&fid.4.1252899642&fid=1&fav.1&rand.13InboxLight.aspxn.1774256418&fid.1252899642&fid.1&fav.1&email=&.rand=13InboxLight.aspx?n=1774256418&fid=4#n=1252899642&fid=1&fav=1",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 2119181469
+    },
+    {
+        "type": "URL",
+        "indicator": "http://bluga.com.ar/fran/googledocs/login.php?l=_JeHFUq_VJOXJoGYDw_OXK0K0QWHtoGYDw_Product-UserID&userid_JeHJOXK0IDw_JOXK0IDD&userid=",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 2119181470
+    },
+    {
+        "type": "URL",
+        "indicator": "http://www.bluga.com.ar/fran/googledocs/login.php?l=_JeHFUq_VJOXJoGYDw_OXK0K0QWHtoGYDw_Product-UserID&userid_JeHJOXK0IDw_JOXK0IDD&userid=",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 2119181471
+    },
+    {
+        "type": "URL",
+        "indicator": "http://positivebarperu.com/www.googledrive102.com/googledocs/ii.php?.rand=13InboxLight.aspx?n=1774256418&amp;email=&amp;fav.1=&amp;fid=1&amp;fid=4&amp;fid.1=&amp;fid.1252899642=&amp;fid.4.1252899642=&amp;rand=13InboxLightaspxn.1774256418&amp;rand.13InboxLight.aspxn.1774256418=",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 2112700589
+    },
+    {
+        "type": "URL",
+        "indicator": "http://positivebarperu.com/www.googledrive102.com/googledocs/ii.php?=1&amp;=4&amp;.rand=13InboxLight.aspx?n=1774256418&amp;email=&amp;fav.1=&amp;fid=&amp;fid.1=&amp;fid.1252899642=&amp;fid.4.1252899642=&amp;rand=13InboxLightaspxn.1774256418&amp;rand.13InboxLight.aspxn.1774256418=",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 2112700590
+    },
+    {
+        "type": "URL",
+        "indicator": "http://www.bluga.com.ar/fran/googledocs/login.php?l=_JeHFUq_VJOXJoGYDw_OXK0K0QWHtoGYDw_Product-UserID&amp;userid=&amp;userid_JeHJOXK0IDw_JOXK0IDD",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 2112700591
+    },
+    {
+        "type": "URL",
+        "indicator": "http://bluga.com.ar/fran/googledocs/index.php?l=_JeHFUq_VJOXJoGYDw_OXK0K0QWHtoGYDw_Product-UserID&amp;;userid_JeHJOXK0IDw_JOXK0IDD&amp;;userid",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 2112700592
+    },
+    {
+        "type": "URL",
+        "indicator": "http://bluga.com.ar/fran/googledocs/login.php?l=_JeHFUq_VJOXJoGYDw_OXK0K0QWHtoGYDw_Product-UserID&amp;userid&amp;userid_JeHJOXK0IDw_JOXK0IDD",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 2112700593
+    },
+    {
+        "type": "URL",
+        "indicator": "http://bluga.com.ar/fran/googledocs/login.php?l=_JeHFUq_VJOXJoGYDw_OXK0K0QWHtoGYDw_Product-UserID&amp;userid_JeHJOXK0IDw_JOXK0IDD&amp;userid",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 2112700594
+    },
+    {
+        "type": "URL",
+        "indicator": "http://www.bluga.com.ar/fran/googledocs/login.php?l=_JeHFUq_VJOXJoGYDw_OXK0K0QWHtoGYDw_Product-UserID&amp;userid_JeHJOXK0IDw_JOXK0IDD&amp;userid",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 2112700595
+    },
+    {
+        "type": "URL",
+        "indicator": "http://fizikdefteri.com/googledocs/",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 229380292
+    },
+    {
+        "type": "URL",
+        "indicator": "http://positivebarperu.com/www.googledrive102.com/googledocs/ii.php?.r=",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 217066442
+    },
+    {
+        "type": "URL",
+        "indicator": "http://www.cubamonte.me/googledocss/send.php",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 213974997
+    },
+    {
+        "type": "URL",
+        "indicator": "http://www.cubamonte.me/googledocss/hotmail.php",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 211388033
+    },
+    {
+        "type": "URL",
+        "indicator": "http://www.catalyzeme.com/googledocs/",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 203852973
+    },
+    {
+        "type": "URL",
+        "indicator": "http://bluga.com.ar/fran/googledocs/login.php?l",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 143163835
+    },
+    {
+        "type": "URL",
+        "indicator": "http://bigjoesbiker-ringe.com/tact/googledocss/sss/index.htm",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 124873446
+    },
+    {
+        "type": "URL",
+        "indicator": "http://positivebarperu.com/www.googledrive102.com/googledocs/",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 101642906
+    },
+    {
+        "type": "URL",
+        "indicator": "http://positivebarperu.com/www.googledrive102.com/googledocs/ii.php?rand=13InboxLightaspxn.1774256418",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 34537611
+    },
+    {
+        "type": "URL",
+        "indicator": "http://positivebarperu.com/www.googledrive102.com/googledocs/index.php",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 23123082
+    },
+    {
+        "type": "URL",
+        "indicator": "http://energym.ro/www.googledrive.com/googledocs/ii.php",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 13750062
+    },
+    {
+        "type": "URL",
+        "indicator": "http://www.bluga.com.ar/fran/googledocs/login.php?l",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 3233439
+    },
+    {
+        "type": "URL",
+        "indicator": "http://www.bluga.com.ar/fran/googledocs/",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 3233497
+    },
+    {
+        "type": "URL",
+        "indicator": "http://bluga.com.ar/fran/googledocs/login.php?l=_JeHFUq_VJOXJoGYDw_OXK0K0QWHtoGYDw_Product-UserID",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 3233482
+    },
+    {
+        "type": "URL",
+        "indicator": "http://www.bluga.com.ar/fran/googledocs/index.php",
+        "created": "2022-02-21T20:15:05",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 3233491
+    },
+    {
+        "type": "URL",
+        "indicator": "http://homespottersf.com/sm/googledocs1/index.html",
+        "created": "2022-08-25T17:49:37",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 3233470
+    },
+    {
+        "type": "URL",
+        "indicator": "http://homespottersf.com/sm/googledocs1/index.html",
+        "created": "2022-12-18T18:57:34",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 3233470
+    },
+    {
+        "type": "URL",
+        "indicator": "http://homespottersf.com/sm/googledocs1/index.html",
+        "created": "2023-01-05T17:58:49",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 3233470
+    },
+    {
+        "type": "URL",
+        "indicator": "http://homespottersf.com/sm/googledocs1/index.html",
+        "created": "2023-01-21T23:59:57",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 3233470
+    },
+    {
+        "type": "URL",
+        "indicator": "http://homespottersf.com/sm/googledocs1/index.html",
+        "created": "2023-04-16T05:05:41",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 3233470
+    },
+    {
+        "type": "URL",
+        "indicator": "http://homespottersf.com/sm/googledocs1/index.html",
+        "created": "2023-04-16T09:05:51",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 3233470
+    },
+    {
+        "type": "URL",
+        "indicator": "http://homespottersf.com/sm/googledocs1/index.html",
+        "created": "2025-05-10T12:00:07",
+        "pulse_key": "6213f2c919cb371e8d38bae5",
+        "id": 3233470
+    }
+]

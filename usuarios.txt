@@ -1,0 +1,10 @@
+[
+    {
+        "correo": "eduar0406@gmail.com",
+        "contrasena": "Edu123"
+    },
+    {
+        "correo": "carmen123@gmail.com",
+        "contrasena": "Carmen123"
+    }
+]
